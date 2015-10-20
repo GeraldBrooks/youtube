@@ -53,7 +53,7 @@
 		}
 	],
 	"config": {
-		"backgroundСolor": "#c12226",
+		"backgroundColor": "#c12226",
 		"icons": "icons"
 	}
 }
