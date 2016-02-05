@@ -18,5 +18,5 @@ Youtube.com is an Internet service that provides video hosting services. Users c
  en    | English
  ru    | Русский
  uk    | Українська
- de    | Deutch
+ de    | Deutsch
  ar    | Arabian
