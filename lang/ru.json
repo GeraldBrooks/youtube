@@ -15,7 +15,7 @@
 			"Categories": "Категории",
 			"Choose default video quality": "Выберите качество видео по умолчанию",
 			"Close Guide": "Закрыть гид",
-			"Default extension": "Качество видео по умолчанию",
+			"Default extension": "Качество видео",
 			"Error playing": "Ошибка воспроизведения",
 			"Exit": "Выход",
 			"Exit from app?": "Выйти из приложения?",
@@ -57,7 +57,8 @@
 				"Просмотров"
 			],
 			"You want to login into app?": "Вы желаете авторизоваться?",
-			"Youtube.com is an Internet service that provides video hosting services. Users can add, view, comment and share these or other videos with their friends. The site includes a professionally shot movies and clips as well as amateur videos, including video blogs. Due to the simplicity and ease of use YouTube has become the most popular videohosting site, and the third in the world as regards to the number of visitors": "Youtube.com интернет-сервис, что обеспечивает видеохостинг. Пользователи могут добавлять, просматривать, комментировать и делиться те или иные видео со своими друзьями. Сайт включает в себя профессионально снятые фильмы и клипы, так и любительских видео, включая видеоблоги. Из-за простоты и удобства использования YouTube стал самым популярным видеохостингом, а также занимает третье место по отношению к количеству посетителей в мире",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com  популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
 			"ago": "назад",
 			"day": [
 				"день",
@@ -98,8 +99,7 @@
 				"год",
 				"года",
 				"лет"
-			],
-			"youtube.com": "youtube.com"
+			]
 		}
 	}
 }
