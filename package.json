@@ -1,5 +1,5 @@
 {
-	"name": "magcore-app-youtube",
+	"name": "youtube.com",
 	"version": "1.6.0",
 	"description": "Youtube.com is an Internet service that provides video hosting services. Users can add, view, comment and share these or other videos with their friends. The site includes a professionally shot movies and clips as well as amateur videos, including video blogs. Due to the simplicity and ease of use YouTube has become the most popular videohosting site, and the third in the world as regards to the number of visitors",
 	"author": {
@@ -9,71 +9,24 @@
 		"type": "git",
 		"url": "https://github.com/GeraldBrooks/youtube.git"
 	},
-	"devDependencies": {
-		"code-proxy": "^1.2.21",
-		"del": "^1.2.0",
-		"gettext-parser": "^1.1.1",
-		"gremlins.js": "^0.1.0",
-		"gulp": "^3.9.1",
-		"gulp-bump": "^2.1.0",
-		"gulp-eslint": "^0.12.0",
-		"gulp-jade": "^1.0.1",
-		"gulp-less": "^3.0.3",
-		"gulp-livereload": "^3.8.0",
-		"gulp-minify-css": "^1.1.1",
-		"gulp-plumber": "^1.0.1",
-		"gulp-rename": "^1.2.0",
-		"gulp-repl": "*",
-		"gulp-sourcemaps": "^1.5.2",
-		"gulp-util": "^3.0.4",
-		"gulp-watch": "^4.2.4",
-		"gulp-webpack": "^1.4.0",
-		"gulp-zip": "^3.0.2",
-		"ip": "^0.3.2",
-		"node-static": "^0.7.6",
-		"open": "^0.0.5",
-		"scp": "0.0.3",
-		"ssh2": "^0.4.8",
-		"stb-referrer": "https://github.com/stbsdk/referrer.git",
-		"tty-colors": "^0.0.6",
-		"webpack-stream": "^2.0.0",
-		"weinre": "^2.0.0-pre-I0Z7U9OV",
-		"ws": "^0.7.2"
-	},
-	"scripts": {
-		"build": "gulp webpack:develop && gulp lang && gulp webpack:clean && gulp build:release"
-	},
 	"config": {
-		"name": "Youtube",
-		"description": "Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.",
 		"type": "app",
 		"category": "apps",
+		"backgroundColor": "#c12226",
+		"name": "Youtube",
 		"legacy": true,
-		"uris": {
-			"app": "app",
-			"entry": "index.html",
-			"icons": {
-				"480": {
-					"logoNormal": "img/480/icons/2015.png",
-					"logoActive": "img/480/icons/2015.focus.png"
-				},
-				"576": {
-					"logoNormal": "img/576/icons/2015.png",
-					"logoActive": "img/576/icons/2015.focus.png"
-				},
-				"720": {
-					"logoNormal": "img/720/icons/2015.png",
-					"logoActive": "img/720/icons/2015.focus.png"
-				},
-				"1080": {
-					"logoNormal": "img/1080/icons/2015.png",
-					"logoActive": "img/1080/icons/2015.focus.png"
-				}
+		"description": "Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.",
+		"icons": {
+			"paths": {
+				"480": "img/480/",
+				"576": "img/576/",
+				"720": "img/720/",
+				"1080": "img/1080/"
+			},
+			"states": {
+				"normal": "icons/2015.png",
+				"active": "icons/2015.focus.png"
 			}
-		},
-		"colors": {
-			"splashFont": "#fff",
-			"splashBackground": "#c12226"
 		},
 		"options": [
 			{
@@ -101,10 +54,5 @@
 				"desc": "Url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/GeraldBrooks/youtube/master/config.json"
 			}
 		]
-	},
-	"keywords": [
-		"magsdk",
-		"stalker",
-		"youtube"
-	]
+	}
 }
