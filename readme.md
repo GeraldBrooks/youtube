@@ -8,7 +8,7 @@ Youtube.com is an Internet service that provides video hosting services. Users c
 ------------|-------------
  language   | interface language can be one of the supported interface language (see below)
  regionCode | content will be relevant to the selected country. The parameter value is an ISO 3166-1 alpha-2 country code.
- config     | url encoded path to "config.json" file, if not provided, use https://raw.githubusercontent.com/GeraldBrooks/youtube/master/config.json
+ config     | url encoded path to file which control menu items, if not provided, use https://raw.githubusercontent.com/GeraldBrooks/youtube/master/config.json
 
 
 #### Supported interface languages
