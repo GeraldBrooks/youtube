@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "hy",
+		"plural": "n != 1"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Դադարեցնել կոճակը սեղմելով",
+			"Cyclic record mode": "Ցիկլային ձայնագրման ռեժիմ",
+			"Delay": "Հետաձգում",
+			"Delay before the TimeShift starts recording.": "Հետաձգում մինչև ձայնագրության սկսվելը ժամանակը ետ տալու գործառույթով։",
+			"Do not save buffer": "Չպահպանել բուֆերը",
+			"Duration": "Երկարություն",
+			"Enable TimeShift": "Ակտիվացնել ժամանակը ետ տալը",
+			"Enable TimeShift function.": "Միացնել ժամանակը ետ տալու գործառույթը։",
+			"On exit": "Դուրս գալիս",
+			"Request to save": "Պահպանելու հարցում",
+			"Save buffer": "Պահպանել բուֆերը",
+			"Save content on exit (end of TimeShift mode).": "Սահմանել դուրս գալիս բովանդակության պահպանումը (ժամանկը ետ տալու գործառույթի պահպանման ավարտ)",
+			"Set the TimeShift recording duration": "Սահմանել ձայնագրման տևողությունը՝ ստեղծված ժամանակը ետ տալու գործառույթով։",
+			"Stop when out of space": "Դադարեցնել երբ ազատ հիշողություն չկա",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "Բուֆերային օգտագործման ռեժիմը որոշվում է պարամետրերով։ Ցիկլային վերագրանցում - ձայնագրությունը  կատարվում է պարբերաբար, հենց որ այն լցված է, կրկնվող ձայնագրությունը պատրաստ է։ Դադարեցնել լցվելու ժամանակ - ձայնագրությունն ավարտվում է, երբ հիշողությունը սպառված է։",
+			"TimeShift": "Ժամանակի ետ տալ",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Ժամանակը ետ տալու գործառույթը թույլ է տալիս USB կրիչի վրա ձայնագրել հեռարձակումը սեղմելով «Դադարեցնել» կոճակը հեռակառավարման վահանակի վրա։  «Դադարեցնել»  կոճակը կրկին սեղմելու դեպքում ձայնագրությունը կշարունակվի և հաղորդումը կսկսի հեռարձակվել պահեստավորման սարքից՝ սկսած այն պահից, երբ դուք առաջին անգամ սեղմել եք «Դադարեցնել» կոճակը։",
+			"Using buffer mode": "Օգտագործելով բուֆերային ռեժիմը",
+			"hour": "ժամ",
+			"hours": "ժամեր",
+			"min": "րոպե",
+			"sec": "վրկ"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "tr",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Ses",
+			"Audio Output Mode": "Ses Çıkış Modu",
+			"Disabled": "Devre dışı",
+			"Dynamic range compression": "Kompresör",
+			"HDMI Audio": "HDMI Ses",
+			"Initial volume level": "Başlangıç ses seviyesi",
+			"Max": "Maks",
+			"Mono": "Mono",
+			"Mono Left": "Mono Sol",
+			"Mono Right": "Mono Sağ",
+			"Operating mode": "Çalışma modu",
+			"SPDIF Mode": "SPDIF Modu",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Ses çıkışı modunu seçin: Mono, Stereo, Lt / Rt, vb.",
+			"Setting audio parameters": "Ses parametre ayarları",
+			"Setting the initial volume level with which playback will be performed after switch on": "Açıldıktan sonra çalınacak kaydın başlangıç ses seviyesinin ayarlanması",
+			"Stereo": "Stereo"
+		}
+	}
+}

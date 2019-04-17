@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "hy",
+		"plural": "n != 1"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Սարքը միացված է",
+			"New device is connected": "Նոր սարքը միացված է",
+			"Ok": "",
+			"The network cable is connected": "Նոր սարքը միացված է",
+			"The network cable is disconnected": "Սարքը միացված է"
+		}
+	}
+}

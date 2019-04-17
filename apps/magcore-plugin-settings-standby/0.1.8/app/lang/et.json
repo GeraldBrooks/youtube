@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "et_EE",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Active": "Aktiivne",
+			"Deep": "Sügav",
+			"Mode": "Töörežiim",
+			"Selecting standby mode: \n Deep - all applications complete their work \n Active - most of the systems work, the screen dims and the player stops \n These modes are activated by pressing the Power button on the remote control.": "Vali ooterežiim: \n Sügav - kõik rakendused lõpetavad töö \n Aktiivne - suurem osa rakendustest toimivad, ekraan ja videomängija lülitatakse välja \n Need režiimid saab aktiveerida, vajutades sisselülitamis nuppu puldi peal.",
+			"Stand by mode": "Ooterežiim"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "sl",
+		"plural": "(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "S pritiskom na gumb za premor",
+			"Cyclic record mode": "Način cikličnega snemanja",
+			"Delay": "Zakasnitev",
+			"Delay before the TimeShift starts recording.": "Zakasnitev začetka snemanja s funkcijo časovnega zamika.",
+			"Do not save buffer": "Ne shrani medpomnilnika",
+			"Duration": "Dolžina",
+			"Enable TimeShift": "Omogoči časovni zamik",
+			"Enable TimeShift function.": "Omogoči funkcijo časovnega zamika.",
+			"On exit": "Ob izhodu",
+			"Request to save": "Zahteva za shranjevanje",
+			"Save buffer": "Shrani medpomnilnik",
+			"Save content on exit (end of TimeShift mode).": "Nastavitev shranjevanja vsebine ob izhodu (zaključek uporabe funkcije časovnega zamika).",
+			"Set the TimeShift recording duration": "Nastavitev trajanja posnetka, narejenega s časovnim zamikom.",
+			"Stop when out of space": "Ustavi, ko zmanjka prostora",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "Način uporabe medpomnilnika je določen s parametri: Ciklični prepis - snemanje v medpomnilniku se izvaja ciklično, ko je ta poln, se izvede ponovno snemanje. Ustavi, ko je poln - posnetek se konča, ko zmanjka prostora za shranjevanje.",
+			"TimeShift": "Časovni zamik",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Funkcija časovnega zamika omogoča snemanje oddajanja kanala na USB-ključku s pritiskom na gumb \"Premor\" na daljinskem upravljalniku. Ob ponovnem pritisku gumba \"Premor\" se bo snemanje nadaljevalo, kanal pa se bo predvajal iz naprave za shranjevanje od trenutka, ko ste prvič pritisnili gumb \"Premor\".",
+			"Using buffer mode": "Uporaba predpomnilniškega načina",
+			"hour": "ura",
+			"hours": "ure",
+			"min": "min",
+			"sec": "sek"
+		}
+	}
+}

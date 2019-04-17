@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ka",
+		"plural": "0"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "მოწყობილობა გამოერთებულია",
+			"New device is connected": "ახალი მოწყობილობა დაკავშირებულია",
+			"Ok": "",
+			"The network cable is connected": "ახალი მოწყობილობა დაკავშირებულია",
+			"The network cable is disconnected": "მოწყობილობა გამოერთებულია"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "en",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Device is disconnected",
+			"New device is connected": "New device is connected",
+			"Ok": "Ok",
+			"The network cable is connected": "The network cable is connected",
+			"The network cable is disconnected": "The network cable is disconnected"
+		}
+	}
+}

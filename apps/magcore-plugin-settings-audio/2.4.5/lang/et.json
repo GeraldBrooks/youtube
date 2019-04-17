@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "et_EE",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Audio",
+			"Audio Output Mode": "Audio väljund",
+			"Disabled": "Väljas",
+			"Dynamic range compression": "Dünaamiline vahemiku tihendus",
+			"HDMI Audio": "HDMI Audio",
+			"Initial volume level": "Esialgne helitugevus",
+			"Max": "Max",
+			"Mono": "Mono",
+			"Mono Left": "Mono vasak",
+			"Mono Right": "Mono parem",
+			"Operating mode": "Töörežiim",
+			"SPDIF Mode": "SPDIF režiim",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Vali heliväljundi režiim: Mono, Stereo, vasak / parem või muu.",
+			"Setting audio parameters": "Audio parameetrite seaded",
+			"Setting the initial volume level with which playback will be performed after switch on": "Seadistades ´esialgse helitugevuse´ saab määrata digiboksile vaikimisi helitugevust sisselülitamisel.",
+			"Stereo": "Stereo"
+		}
+	}
+}

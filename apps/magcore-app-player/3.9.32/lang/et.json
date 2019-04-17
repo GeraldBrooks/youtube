@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "et",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "Ajamasina puhver on täis 1 minuti pärast ",
+			"Actions": "Tegevused",
+			"Aspect": "Vaade",
+			"Can not get current epg link": "Ei saa saada praegust epg linki",
+			"Change audio track language": "Muuta audio keel",
+			"Change video conversation mode": "Muuta video vestlusrežiim",
+			"Change volume level": "Muuda helitugevust",
+			"Display": "Kuva",
+			"Enable/disable or change subtitles for current content playback": "Subtiitrite sisse-,väljalülitamine või muutmine ",
+			"Error playing content": "Viga sisu mängimisel",
+			"Exit": "Välju",
+			"External track": "Väline rada",
+			"Info": "Info",
+			"Letter box": "Postkast",
+			"List": "List",
+			"Mount usb device!": "Sisestage usb seade!",
+			"Mute": "Hääletu",
+			"Mute On": "Hääletu sees",
+			"Mute all sound": "Lülita välja heli igalpool ",
+			"Mute off": "Hääletu väljas",
+			"No": "",
+			"Off": "Väljas",
+			"Original": "Originaal",
+			"Pan&Scan": "Pan&Scan",
+			"PiP": "PiP",
+			"Settings": "Seaded",
+			"Sound": "Heli",
+			"Sound track": "Lugu",
+			"Subtitles": "Subtiitrid",
+			"Timeshift buffer is full": "Timeshift puhver on täis",
+			"Track": "Lugu",
+			"USB storage is full": "USB mäluseade on täis",
+			"USB storage unavailable": "USB mäluseade on kättesaamatu",
+			"Volume level": "Helitugevus",
+			"Yes": "",
+			"combined": "kombineeritud",
+			"enlarged": "laienenud",
+			"external": "objektiivne",
+			"optimal": "optimaalne",
+			"player": "mängija",
+			"undefined": "määratlemata"
+		}
+	}
+}

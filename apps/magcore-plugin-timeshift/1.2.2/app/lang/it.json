@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "it",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Premendo il tasto \"pausa\"",
+			"Cyclic record mode": "Modalità di registrazione ciclica",
+			"Delay": "Ritardo",
+			"Delay before the TimeShift starts recording.": "Ritardo prima che venga avviata la registrazione tramite la funzione TimeShift.",
+			"Do not save buffer": "Non salvare il buffer",
+			"Duration": "Lunghezza",
+			"Enable TimeShift": "Abilita timeshift",
+			"Enable TimeShift function.": "Abilita la funzione TimeShift.",
+			"On exit": "All'uscita",
+			"Request to save": "Richiesta di salvare",
+			"Save buffer": "Salva il buffer",
+			"Save content on exit (end of TimeShift mode).": "Impostazione del salvataggio del contenuto all'uscita(al termine dell'utilizzo della funzionalità TimeShift).",
+			"Set the TimeShift recording duration": "Imposta le durata delle registrazioni effettuate con la funzione TimeShift.",
+			"Stop when out of space": "Arresta quando lo spazio si esaurisce",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "La modalità di utilizzo del buffer viene determinata in base a questi parametri: \"scrittura ciclica\" - il buffer viene riempito ciclicamente: una volta che è pieno la registrazione riprende dall'inizio del buffer stesso; \"arresta al riempimento\" - la registrazione si interrompe solo quando lo spazio di memorizzazione è terminato.",
+			"TimeShift": "TimeShift",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "La funzionalità TimeShift consente di avviare la registrazione del programma che si sta vedendo sulla chiavetta USB, premendo il tasto \"pausa\" del telecomando. Quando viene premuto il tasto \"pausa\" nuovamente, il programma riprenderà dal momento esatto in cui è stato messo in pausa mentre la registrazione prosegue in background.",
+			"Using buffer mode": "Uso modalità buffer",
+			"hour": "ora",
+			"hours": "ore",
+			"min": "minuti",
+			"sec": "secondi"
+		}
+	}
+}

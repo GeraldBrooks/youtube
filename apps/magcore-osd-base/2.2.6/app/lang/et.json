@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "et_EE",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Seade on lahtiühendatud",
+			"New device is connected": "Uus seade ühendatud",
+			"Ok": "",
+			"The network cable is connected": "Uus seade ühendatud",
+			"The network cable is disconnected": "Seade on lahtiühendatud"
+		}
+	}
+}

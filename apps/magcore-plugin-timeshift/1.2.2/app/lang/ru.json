@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Нажав кнопку «Пауза»",
+			"Cyclic record mode": "Режим циклической записи",
+			"Delay": "Задержка",
+			"Delay before the TimeShift starts recording.": "Задержка перед началом записи с помощью функции TimeShift.",
+			"Do not save buffer": "Не сохранять буфер",
+			"Duration": "Длина",
+			"Enable TimeShift": "Включить TimeShift",
+			"Enable TimeShift function.": "Включить функцию TimeShift.",
+			"On exit": "При выходе",
+			"Request to save": "Запрос на сохранение",
+			"Save buffer": "Сохранить буфер",
+			"Save content on exit (end of TimeShift mode).": "Настройка сохранения содержимого при выходе (завершение использования функции TimeShift).",
+			"Set the TimeShift recording duration": "Установка продолжительности записи с помощью TimeShift.",
+			"Stop when out of space": "Остановка при выходе из пространства",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "Режим использования буфера определяется параметрами: циклическая перезапись - запись в буфер выполняется циклически, как только она заполнена, повторяется запись. Остановка при заполнении - запись заканчивается после заполнения хранителя.",
+			"TimeShift": "",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Функция TimeShift позволяет записывать трансляцию канала на USB-устройство, нажимая кнопку «Пауза» на пульте дистанционного управления. Когда вы снова нажмете кнопку «Пауза», запись продолжится, и канал начнет воспроизводиться с устройства хранения, начиная с момента нажатия кнопки «Пауза».",
+			"Using buffer mode": "Использование режима буфера",
+			"hour": "час",
+			"hours": "часов",
+			"min": "мин",
+			"sec": "сек"
+		}
+	}
+}

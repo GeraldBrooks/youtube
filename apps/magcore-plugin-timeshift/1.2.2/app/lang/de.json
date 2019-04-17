@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Durch Drücken des Pause-Buttons",
+			"Cyclic record mode": "Zyklischer Aufzeichnungsmodus",
+			"Delay": "Verzögerung",
+			"Delay before the TimeShift starts recording.": "Verzögerung, bis die Auzeichnung durch die TimeShift-Funktion beginnt.",
+			"Do not save buffer": "Puffer nicht speichern",
+			"Duration": "Länge",
+			"Enable TimeShift": "TimeShift einschalten",
+			"Enable TimeShift function.": "TimeShift-Funktion einschalten",
+			"On exit": "Auf Beenden",
+			"Request to save": "Speichern verlangen",
+			"Save buffer": "Puffer speichern",
+			"Save content on exit (end of TimeShift mode).": "Inhalt speichern beim Beenden (Vervollständigung der TimeShift-Funktion)",
+			"Set the TimeShift recording duration": "Dauer der TimeShift-Aufzeichnungen einstellen.",
+			"Stop when out of space": "Stoppe, wenn kein Speicherplatz mehr vorhanden ist.",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "Die Puffernutzung wird von folgenden Parametern bestimmt: Zyklisches Überschreiben - es wird zyklisch in den Puffer aufgezeichnet, wenn er voll ist, wird die erneute Aufzeichnung erstellt. Stoppe, wenn voll - die Aufzeichnung endet nach dem der Speicherplatz aufgebraucht ist.  ",
+			"TimeShift": "TimeShift",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Die TimeShift-Funktion erlaubt es Ihnen, mit einem Druck auf den \"Pause\"-Button der Fernbedienung Übertragungen eines Senders auf dem USB-Stick aufzuzeichnen. Wenn Sie den \"Pause\"-Button erneut drücken, wird die Aufzeichnung fortgesetzt und der Sender wird aus dem Speicher von dem Moment an abgespielt, in dem Sie das erste Mal auf den \"Pause\"-Button gedrückt haben. ",
+			"Using buffer mode": "Benutze Puffer-Modus",
+			"hour": "Stunde",
+			"hours": "",
+			"min": "",
+			"sec": ""
+		}
+	}
+}

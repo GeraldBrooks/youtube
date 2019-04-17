@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pl",
+		"plural": "(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Poprzez naciśnięcie przycisku Pauzy",
+			"Cyclic record mode": "Cykliczny tryb nagrywania",
+			"Delay": "Opóźnienie",
+			"Delay before the TimeShift starts recording.": "Opóźnienie przed startem nagrywania z wykorzystaniem funkcji TimeShift.",
+			"Do not save buffer": "Nie zapisuj bufora",
+			"Duration": "Długość",
+			"Enable TimeShift": "Włącz timeshift",
+			"Enable TimeShift function.": "Włącz funkcję TimeShift",
+			"On exit": "Przy wyjściu",
+			"Request to save": "Prośba o zapisanie",
+			"Save buffer": "Zapisz bufor",
+			"Save content on exit (end of TimeShift mode).": "Ustaw zapis nagrań przy wyjściu (ukończenie funkcji TimeShift)",
+			"Set the TimeShift recording duration": "Ustaw czas nagrywania przy wykorzystaniu funkcji TimeShift",
+			"Stop when out of space": "Zatrzymaj gdy braknie wolnego miejsca",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "Tryb użycia bufora zależy od następujących parametrów: Cykliczne nadpisywanie - gdy zapis się zakończy, kolejne nagranie jest tworzone na jego miejscu.Drugi tryb: Nagrania będą zapisywane do momentu wykorzystania całego dostępnego miejsca. ",
+			"TimeShift": "TimeShift",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Funkcja TimeShift pozwala nagrać transmisję kanału na pamięć USB poprzez wciśnięcie przycisku \"Pauza\" na pilocie. Gdy wciśniesz przycisk \"Pauza\" ponownie, nagrywanie będzie kontynuowane i kanał zostanie odtworzony z pamięci przenośnej od miejsca gdzie wcisnąłeś przycisk \"Pauza\" po raz pierwszy.",
+			"Using buffer mode": "Używanie trybu bufora",
+			"hour": "godzina",
+			"hours": "godziny",
+			"min": "min",
+			"sec": "sek"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Gerät ist nicht angeschlossen",
+			"New device is connected": "Neues Gerät ist verbunden",
+			"Ok": "",
+			"The network cable is connected": "Neues Gerät ist verbunden",
+			"The network cable is disconnected": "Gerät ist nicht angeschlossen"
+		}
+	}
+}

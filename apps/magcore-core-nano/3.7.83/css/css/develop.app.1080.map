@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "../../build/stalker/app/css/develop.app.1080.css",
+	"sources": [
+		"../../src/sass/develop.1080.scss",
+		"../../src/sass/vars/1080.scss",
+		"../../node_modules/mag-app/sass/vars/1080.scss",
+		"../../node_modules/stb-app/sass/vars/1080.scss",
+		"../../node_modules/stb-app/sass/vars/720.scss",
+		"../../src/sass/main.scss"
+	],
+	"mappings": "AAAA,0BAA0B;AKA1B;;EAEE;AAEF,AAAA,IAAI,CAAC;IACD,UAAU,EAAE,sBAAuB;IACnC,SAAS,EJDF,IAAI,GIEd;;AAED,AAAA,cAAc,CAAC;IACX,QAAQ,EAAE,QAAS;IACnB,GAAG,EJLgB,KAAK,GIM3B;;AAED,AAAA,iBAAiB,CAAC;IACd,MAAM,EJRY,IAAI;IIStB,KAAK,EJRY,IAAI,GISxB;;AAED,AAAoB,iBAAH,GAAG,KAAK,CAAC;IACtB,cAAc,EJVK,IAAI,GIW1B;;AAED,AAAA,SAAS,CAAC;IACN,KAAK,EJfK,IAAI;IIgBd,MAAM,EJhBI,IAAI,GIiBjB;;AAED,AAAS,SAAA,AAAA,GAAG,CAAC;IACT,gBAAgB,EAAE,yBAAG,GACxB;;AAED,AAAS,SAAA,AAAA,MAAM,CAAC;IACZ,gBAAgB,EAAE,4BAAG,GACxB;;AAED,AAAS,SAAA,AAAA,MAAM,CAAC;IACZ,gBAAgB,EAAE,4BAAG,GACxB;;AAED,AAAS,SAAA,AAAA,MAAM,CAAC;IACZ,gBAAgB,EAAE,4BAAG,GACxB",
+	"names": []
+}

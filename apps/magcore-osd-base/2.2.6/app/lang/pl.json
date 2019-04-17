@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pl",
+		"plural": "(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Urządzenie jest odłączone",
+			"New device is connected": "Nowe urządzenie jest podłączone",
+			"Ok": "",
+			"The network cable is connected": "Nowe urządzenie jest podłączone",
+			"The network cable is disconnected": "Urządzenie jest odłączone"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "nl",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Door te drukken op de Pause knop",
+			"Cyclic record mode": "Cyclische opname modus",
+			"Delay": "Vertraging",
+			"Delay before the TimeShift starts recording.": "Vertraging opgelopen voordat de opname is gestart met de TimeShift functie.",
+			"Do not save buffer": "Buffer niet opslaan",
+			"Duration": "Lengte",
+			"Enable TimeShift": "Inschakelen timeshift",
+			"Enable TimeShift function.": "Schakel TimeShift functie in.",
+			"On exit": "Op exit",
+			"Request to save": "Verzoek om op te slaan",
+			"Save buffer": "Bewaar buffer",
+			"Save content on exit (end of TimeShift mode).": "Instellen inhoud bewaren bij afsluiten (voltooiing van TimeShift functie).",
+			"Set the TimeShift recording duration": "Stel de opnameduur vast door TimeShift.",
+			"Stop when out of space": "Stop als er geen ruimte meer is",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "De gebruiksmodus van de buffer wordt vastgesteld via de parameters. Cyclisch overschrijven - opname door de buffer wordt cyclisch uitgevoerd, als de buffer vol is is de herhaalde opname gemaakt. Stop met vullen - de opname stopt als de opslagruimte leeg is. ",
+			"TimeShift": "TimeShift",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "TimeShift functie zorgt ervoor dat je uitzendingen kunt opnemen op de USB-stick, u hoeft alleen op de \"Pause\" knop van de afstandbediening te drukken. Als u nogmaals op de \"Pause\" knop drukt, gaat de opname verder en de uitzending wordt gestart vanaf het moment dat u de eerste keer op de \"Pause\" knop drukte.",
+			"Using buffer mode": "Gebruik buffer modus",
+			"hour": "uur",
+			"hours": "uren",
+			"min": "min",
+			"sec": "sec"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "bg",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Аудио",
+			"Audio Output Mode": "Режим на Изход на аудиото",
+			"Disabled": "Изключен",
+			"Dynamic range compression": "Компресиране на динамичния обхват",
+			"HDMI Audio": "HDMI аудио",
+			"Initial volume level": "Първоначално ниво на звука",
+			"Max": "Макс",
+			"Mono": "",
+			"Mono Left": "Mono ляво",
+			"Mono Right": "Mono Дясно",
+			"Operating mode": "Режим на работа",
+			"SPDIF Mode": "Режим SPDIF",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Изберете режима на изходящото аудио: Mono, Stereo, Lt / Rt, etc.",
+			"Setting audio parameters": "Задаване на аудио параметри",
+			"Setting the initial volume level with which playback will be performed after switch on": "Задаване на първоначалното ниво на звука с което възпроизвеждането ще се извърши след включване",
+			"Stereo": "Стерео"
+		}
+	}
+}

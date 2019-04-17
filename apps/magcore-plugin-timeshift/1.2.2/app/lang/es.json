@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "es",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"By pressing \"Pause\" button": "Pulsando el botón Pausa",
+			"Cyclic record mode": "Modo de grabación cíclico",
+			"Delay": "Retraso",
+			"Delay before the TimeShift starts recording.": "Retraso antes de que la función TimeShift empiece la grabación.",
+			"Do not save buffer": "No guardar búfer",
+			"Duration": "Longitud",
+			"Enable TimeShift": "Activar TimeShift",
+			"Enable TimeShift function.": "Activar función TimeShift.",
+			"On exit": "Al salir",
+			"Request to save": "Solicitar para guardar",
+			"Save buffer": "Guardar búfer",
+			"Save content on exit (end of TimeShift mode).": "Ajustar para guardar contenido al salir (finalización de uso de la función TimeShift).",
+			"Set the TimeShift recording duration": "Ajustar la duración de la grabación hecha por TimeShift.",
+			"Stop when out of space": "Detener cuando no haya espacio libre",
+			"There are two options for using the buffer. Cyclic overwrite - recording to the buffer is performed cyclically. Once the buffer is full, the new record overwrites the existing ones. Stop when filled - the record ends once the storage space is filled.": "El modo de uso del búfer lo determinan los parámetros: Sobrescritura cíclica - la grabación en el búfer se realiza cíclicamente, una vez está lleno la grabación se sobrescribe. Detener al llenarse - la grabación finaliza cuando el espacio de almacenamiento se termina.",
+			"TimeShift": "TimeShift",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "La función TimeShift le permite grabar la emisión de un canal en la memoria USB pulsando el botón \"Pausa\" en el control remoto. Cuando vuelva a pulsar el botón \"Pausa\", la grabación continuará y el canal empezara a reproducir desde el dispositivo de almacenamiento desde el momento en que pulsó el botón \"Pausa\" por primera vez.",
+			"Using buffer mode": "Modo de uso del búfer",
+			"hour": "hora",
+			"hours": "horas",
+			"min": "min",
+			"sec": "seg"
+		}
+	}
+}
