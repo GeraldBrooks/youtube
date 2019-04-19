@@ -1,0 +1,75 @@
+{
+  "_from": "magcore-plugin-youtube-dl@^1.0.0",
+  "_id": "magcore-plugin-youtube-dl@1.1.8",
+  "_inBundle": false,
+  "_integrity": "sha1-Wc4ojKDtdI2utEcJYYTSoRjziRU=",
+  "_location": "/magcore-plugin-youtube-dl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "magcore-plugin-youtube-dl@^1.0.0",
+    "name": "magcore-plugin-youtube-dl",
+    "escapedName": "magcore-plugin-youtube-dl",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/",
+    "/magcore-app-youtube"
+  ],
+  "_resolved": "http://npm.lpo.priv:4873/magcore-plugin-youtube-dl/-/magcore-plugin-youtube-dl-1.1.8.tgz",
+  "_shasum": "59ce288ca0ed748daeb447096184d2a118f38915",
+  "_spec": "magcore-plugin-youtube-dl@^1.0.0",
+  "_where": "/tmp/mcbuild-qGWNBN",
+  "author": {
+    "name": "Gerald Brooks",
+    "email": "aninoorie@gmail.com"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "name": "youtubeDL",
+    "type": "plugin",
+    "uris": {
+      "app": "",
+      "entry": "index.js"
+    }
+  },
+  "dependencies": {
+    "magcore-core": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Youtube-dl plugin.",
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "*",
+    "babel-preset-es2015": "*",
+    "cjs-emitter": "^1.5.0",
+    "es6-map": "*",
+    "es6-object-assign": "*",
+    "es6-promise-polyfill": "*",
+    "es6-set": "^0.1.5",
+    "es6-symbol": "*",
+    "eslint": "^4.19.0",
+    "function-bind": "^1.1.0",
+    "mag-eslint-config": "^1.0.0",
+    "replace-bundle-webpack-plugin": "*",
+    "url-polyfill": "*",
+    "web-streams-polyfill": "*",
+    "webpack": "^3.0.0",
+    "ytdl-core": "^0.25.2"
+  },
+  "main": "index.js",
+  "name": "magcore-plugin-youtube-dl",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "webpack",
+    "lint": "eslint ."
+  },
+  "version": "1.1.8"
+}

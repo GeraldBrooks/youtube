@@ -1,0 +1,118 @@
+/* spa-app: release */
+html, body {
+    height: 1080px;
+    width: 1920px;
+    font-size: 33px;
+    font-family: Ubuntu, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0; }
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0; }
+    table td {
+        padding: 0; }
+
+.maxh {
+    height: 100%; }
+
+.maxw {
+    width: 100%; }
+
+a {
+    text-decoration: none; }
+
+.invisible {
+    visibility: hidden; }
+
+/* stb-app: release */
+html, body {
+    -webkit-user-select: none; }
+
+/* mag-app: release */
+
+.spa-component-progress-bar {
+    box-sizing: border-box;
+    height: 24px;
+    background-color: grey; }
+    .spa-component-progress-bar.hidden {
+        display: none; }
+    .spa-component-progress-bar .value {
+        height: 100%;
+        background-color: orange; }
+
+.stb-component-button {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #dde9ff;
+    display: inline-table;
+    height: 69px;
+    cursor: pointer; }
+    .stb-component-button.hidden {
+        display: none; }
+    .stb-component-button:hover {
+        background-color: #bbd3ff; }
+    .stb-component-button.focus {
+        background-color: #bbd3ff; }
+    .stb-component-button.click {
+        background-color: #a8c9ff; }
+    .stb-component-button .icon {
+        height: 69px;
+        width: 69px;
+        display: table-cell;
+        background: no-repeat center center; }
+    .stb-component-button .text {
+        display: table-cell;
+        padding: 9px 18px;
+        vertical-align: middle;
+        text-align: center; }
+        .stb-component-button .text:empty {
+            padding: 0; }
+
+.stb-component-list {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #333;
+    width: 100%; }
+    .stb-component-list.hidden {
+        display: none; }
+    .stb-component-list > .item {
+        cursor: pointer;
+        padding: 0 15px;
+        vertical-align: middle;
+        height: 48px;
+        line-height: 48px; }
+        .stb-component-list > .item.mark {
+            background-color: green;
+            color: black; }
+        .stb-component-list > .item.focus {
+            background-color: orange;
+            color: black; }
+        .stb-component-list > .item.focus.mark {
+            background-color: #ae7200;
+            color: white; }
+    .stb-component-list.horizontal {
+        display: table;
+        table-layout: fixed;
+        width: 100%; }
+        .stb-component-list.horizontal > .item {
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle; }
+
+.stb-component-page {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 1920px;
+    height: 1080px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden;
+    overflow: hidden; }
+    .stb-component-page.hidden {
+        display: none; }
+    .stb-component-page.active {
+        visibility: inherit; }

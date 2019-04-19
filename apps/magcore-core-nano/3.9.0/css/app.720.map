@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "app.720.css",
+	"sources": [
+		"../../../src/sass/release.720.scss",
+		"../../../src/sass/vars/720.scss",
+		"../../../node_modules/mag-app/sass/vars/720.scss",
+		"../../../node_modules/stb-app/sass/vars/720.scss",
+		"../../../src/sass/main.scss"
+	],
+	"names": [],
+	"mappings": "AIAA,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,sBAAsB,CAClC,SAAS,CHIF,IAAI,CGHd,AAED,AAAA,cAAc,AAAC,CACX,QAAQ,CAAE,QAAQ,CAClB,GAAG,CHAgB,KAAK,CGC3B,AAED,AAAA,iBAAiB,AAAC,CACd,MAAM,CHHY,IAAI,CGItB,KAAK,CHHY,IAAI,CGIxB,AAED,AAAA,iBAAiB,CAAG,KAAK,AAAC,CACtB,cAAc,CHLK,GAAG,CGMzB,AAED,AAAA,SAAS,AAAC,CACN,KAAK,CHVK,IAAI,CGWd,MAAM,CHXI,IAAI,CGYjB,AAED,AAAA,SAAS,AAAA,GAAG,AAAC,CACT,gBAAgB,CAAE,yBAAwB,CAC7C,AAED,AAAA,SAAS,AAAA,MAAM,AAAC,CACZ,gBAAgB,CAAE,4BAA2B,CAChD,AAED,AAAA,SAAS,AAAA,MAAM,AAAC,CACZ,gBAAgB,CAAE,4BAA2B,CAChD,AAED,AAAA,SAAS,AAAA,MAAM,AAAC,CACZ,gBAAgB,CAAE,4BAA2B,CAChD"
+}
