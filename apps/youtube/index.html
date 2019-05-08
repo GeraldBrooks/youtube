@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <script type="text/javascript" src="main.js"></script>
+  </head>
+  <body>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <div id="widgetHintButtons">
+      <div class="hint" id="hintBack"></div>
+      <div class="hint" id="hintMore"></div>
+      <div class="hint" id="hintGuide"></div>
+      <div class="hint" id="hintSearch"></div>
+    </div>
+    <!-- top-level page block-->
+    <div id="pm">
+      <div class="hidden" id="pmListMainMenu">
+        <div id="pmUserInfo"></div>
+        <div id="pmListMainMenuBody"></div>
+      </div>
+      <div class="navigation">
+        <div class="panelIcons">
+          <div class="icon what-to-watch"></div>
+          <div class="icon ellipsis"></div>
+        </div>
+      </div>
+      <div class="tab hidden" id="pmTabCategoryContent">
+        <div id="pmCategorySearch">
+          <div class="icon search"></div>
+          <div class="line" id="pmCategorySearchBody"></div>
+        </div>
+        <div class="tabContent" id="pmCategoryContent">
+          <div class="listMovie0Node" id="pmListCategoryVideos0Node">
+            <div id="pmCategoryChannelTitle0"></div>
+            <div class="listMovie0Body" id="pmListCategoryVideos0Body"></div>
+          </div>
+          <div class="listMovie1Node" id="pmListCategoryVideos1Node">
+            <div id="pmCategoryChannelTitle1"></div>
+            <div class="listMovie1Body" id="pmListCategoryVideos1Body"></div>
+          </div>
+        </div>
+      </div>
+      <div class="tab hidden" id="pmTabChannelContent">
+        <div id="pmChannelMeta">
+          <div id="pmChannelIcon"></div>
+          <div id="pmChannelTitle"></div>
+        </div>
+        <div class="tabContent hidden" id="pmChannelContent">
+          <div class="listMovie0Node" id="pmListChannelVideos0Node">
+            <div id="pmChannelTitle0"></div>
+            <div class="listMovie0Body" id="pmListChannelVideos0Body"></div>
+          </div>
+          <div class="listMovie1Node" id="pmListChannelVideos1Node">
+            <div id="pmChannelTitle1"></div>
+            <div class="listMovie1Body" id="pmListChannelVideos1Body"></div>
+          </div>
+        </div>
+      </div>
+      <div class="tab hidden" id="pmTabMainContent">
+        <div id="pmMainSearch">
+          <div class="icon search"></div>
+          <div class="line" id="pmMainSearchBody"></div>
+        </div>
+        <div class="tabContent" id="pmMainContent">
+          <div id="pmListMainVideos0Node">
+            <div id="pmMainChannelTitle0"></div>
+            <div class="listMovie0Body" id="pmListMainVideos0Body"></div>
+          </div>
+          <div id="pmListMainVideos1Node">
+            <div id="pmMainChannelTitle1"></div>
+            <div class="listMovie1Body" id="pmListMainVideos1Body"></div>
+          </div>
+        </div>
+      </div>
+      <!--#pmTabSingleListContent.tab.hidden-->
+      <!--	#pmSingleListContent-->
+      <!--		#pmSingleListVideosNode-->
+      <!--			#pmSingleListTitle-->
+      <!--			#pmSingleListVideosBody-->
+      <div id="pmTabSettings">
+        <div id="pmSettingsList"></div>
+      </div>
+    </div>
+    <!-- top-level page block-->
+    <div class="component page invisible" id="ps">
+      <div id="psContentContainer">
+        <div id="psContent">
+          <div id="psListVideos"></div>
+        </div>
+        <div id="psControls">
+          <div id="psSearch">
+            <div class="icon search" id="psSearchIcon"></div>
+            <input id="psSearchInput">
+          </div>
+          <div id="psKeyboard"></div>
+        </div>
+      </div>
+    </div>
+    <div id="loaderWidget"></div>
+    <div id="exitMessage"></div>
+  </body>
+</html>
